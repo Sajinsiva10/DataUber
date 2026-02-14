@@ -8,40 +8,41 @@ Développement d’un modèle de Machine Learning capable de prédire les tarifs
 
 L’objectif était de concevoir un modèle de régression performant permettant d’estimer le prix d’une course en fonction de variables contextuelles et environnementales.
 
+
 🧠 Variables utilisées
 
-Distance du trajet
+  Distance du trajet
 
-Heure et moment de la journée
+  Heure et moment de la journée
 
-Conditions météorologiques
+  Conditions météorologiques
 
-Variables liées à la demande
+  Variables liées à la demande
+
 
 ⚙️ Méthodologie
 
 Pipeline complet :
 
-Nettoyage et préparation des données
+   Nettoyage et préparation des données
 
-Analyse exploratoire (EDA)
+   Analyse exploratoire (EDA)
 
-Feature engineering
+   Feature engineering
 
-Entraînement et comparaison de modèles
+   Entraînement et comparaison de modèles
 
-Évaluation des performances
+   Évaluation des performances
 
 Modèles testés :
 
-Régression Linéaire
+  Régression Linéaire
 
-Random Forest
-
-K-Nearest Neighbors (KNN)
+  K-Nearest Neighbors (KNN)
+  
 
 🏆 Résultats
-Modèle	Performance
+ Modèle	Performance
 K-Nearest Neighbors	R² = 96,29 %
 Erreur moyenne	~ 1,7 $
 
@@ -51,9 +52,11 @@ Le modèle KNN a démontré une excellente capacité prédictive et une forte g�
 
 Python · Pandas · NumPy · Scikit-learn · Matplotlib · Jupyter Notebook
 
+
+
 💡 Compétences développées
 
-Construction d’un pipeline Machine Learning complet
+ Construction d’un pipeline Machine Learning complet
 
 Optimisation et comparaison de modèles
 
